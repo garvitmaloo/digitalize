@@ -1,0 +1,15 @@
+{
+  "name": "digitalize",
+  "version": "1.0.0",
+  "description": "digital-agency",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "minify:css": "css-minify -d styles -o min-css"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "css-minify": "^2.0.0"
+  }
+}
